@@ -1,0 +1,19 @@
+{
+  "name": "lodashtask",
+  "version": "1.0.0",
+  "description": "Lodash Libery in Node js",
+  "main": "output.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "lodash": "*",
+    "mongodb": "*",
+    "mongoose": "*"
+  },
+  "author": "Sahil Surani",
+  "license": "ISC"
+}
